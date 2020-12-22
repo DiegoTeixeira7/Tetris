@@ -1,18 +1,18 @@
-# Tetris v1.0 por Diego Teixeira
+# :video_game: Tetris v1.0 por Diego Teixeira
 Um jogo simples que fez muito sucesso e que ainda faz é o Tetris. Esse jogo foi criado nos anos 80 por Alexey Pajitnov e
 rapidamente se espalhou pelo mundo em computadores, videogames, aparelhos portáteis, etc.
 
 ## :computer: Tecnologias
 
-This project was developed at the [RocketSeat GoStack Bootcamp](https://rocketseat.com.br/bootcamp) with the following technologies:
+Este projeto foi desenvolvido com as seguintes tecnologias:
 
--  [Estrutura de Ddos em C++](https://www.cplusplus.com/)
--  [VS Code][vc]
+-  [Estrutura de Dados em C++](https://www.cplusplus.com/)
+-  [VS Code](https://code.visualstudio.com/)
 
-### Em Execução:
+### :arrow_forward: Em Execução:
 
 <p align="center">
-  <img alt="Demonstração Tetris" src="https://gifs.com/gif/tetris-nxEgK5">
+  <img alt="Demonstração Tetris" src="">
 </p>
 
 #### :information_source: Como usar:
