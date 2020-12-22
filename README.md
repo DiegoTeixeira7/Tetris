@@ -15,7 +15,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
   <img alt="Demonstração Tetris" src="">
 </p>
 
-#### :information_source: Como usar:
+### :information_source: Como usar:
 
 Para clonar e executar este aplicativo, você precisará do Git instalado em seu computador. Na linha de comando:
 
@@ -35,3 +35,6 @@ $ g++ jogoTetris.cpp Tetris.cpp -lncurses
 $ ./a.out
 
 ```
+
+### :memo: Liçenca
+Este projeto está sob a licença do MIT. Consulte a [LICENÇA] (https://github.com/lukemorales/rocketshoes-react-native/blob/master/LICENSE) para obter mais informações.
