@@ -2,13 +2,20 @@
 Um jogo simples que fez muito sucesso e que ainda faz é o Tetris. Esse jogo foi criado nos anos 80 por Alexey Pajitnov e
 rapidamente se espalhou pelo mundo em computadores, videogames, aparelhos portáteis, etc.
 
-## Em Execução:
+## :computer: Tecnologias
+
+This project was developed at the [RocketSeat GoStack Bootcamp](https://rocketseat.com.br/bootcamp) with the following technologies:
+
+-  [Estrutura de Ddos em C++](https://www.cplusplus.com/)
+-  [VS Code][vc]
+
+### Em Execução:
 
 <p align="center">
-  <img alt="Demonstração Tetris" src="assets/">
+  <img alt="Demonstração Tetris" src="https://gifs.com/gif/tetris-nxEgK5">
 </p>
 
-### :information_source: Como usar:
+#### :information_source: Como usar:
 
 Para clonar e executar este aplicativo, você precisará do Git instalado em seu computador. Na linha de comando:
 
