@@ -37,4 +37,4 @@ $ ./a.out
 ```
 
 ### :memo: Liçenca
-Este projeto está sob a licença do MIT. Consulte a [LICENÇA] (https://github.com/lukemorales/rocketshoes-react-native/blob/master/LICENSE) para obter mais informações.
+Este projeto está sob a licença do MIT. Consulte a [LICENÇA] (https://github.com/DiegoTeixeira7/Tetris/blob/master/LICENSE) para obter mais informações.
