@@ -12,6 +12,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 ### :arrow_forward: Em Execução:
 
 <p align="center">
+  <img src="https://media.giphy.com/media/ccF4Aw0eMH6HqOEoM9/giphy.gif" width="480" height="270" />
   ![Image](https://media.giphy.com/media/ccF4Aw0eMH6HqOEoM9/giphy.gif)
 </p>
 
