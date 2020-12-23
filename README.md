@@ -12,9 +12,10 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 ### :arrow_forward: Em Execução:
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ccF4Aw0eMH6HqOEoM9/giphy.gif" width="480" height="270" />
-  ![Image](https://media.giphy.com/media/ccF4Aw0eMH6HqOEoM9/giphy.gif)
+
 </p>
+
+<iframe src="https://drive.google.com/file/d/1kxBS2ZP7-h4Fh5KYThiJNL_4RqmromTf/preview" width="640" height="480"></iframe>
 
 ### :information_source: Como usar:
 
