@@ -15,10 +15,6 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
  <img alt="Demontração Tetris" src="assets/tetris.gif">
 </p>
 
-<p align="center">
- [![tetris.md.gif](https://s2.gifyu.com/images/tetris.md.gif)](https://gifyu.com/image/Cvm9)
-</p>
-
 ### :information_source: Como usar:
 
 Para clonar e executar este aplicativo, você precisará do Git instalado em seu computador. Na linha de comando:
