@@ -12,7 +12,9 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 ### :arrow_forward: Em Execução:
 
 <p align="center">
-  <img alt="Demonstração Tetris" src="https://s2.gifyu.com/images/tetris.gif?raw=true" width="480" height="270">
+ [![tetris.th.gif](https://s2.gifyu.com/images/tetris.th.gif)](https://gifyu.com/image/Cvm9)
+ [![tetris.md.gif](https://s2.gifyu.com/images/tetris.md.gif)](https://gifyu.com/image/Cvm9)
+ [![tetris.gif](https://s2.gifyu.com/images/tetris.gif)](https://gifyu.com/image/Cvm9)
 </p>
 
 ### :information_source: Como usar:
