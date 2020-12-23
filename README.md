@@ -15,8 +15,6 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 </p>
 
-<img src="https://drive.google.com/file/d/1kxBS2ZP7-h4Fh5KYThiJNL_4RqmromTf/preview" width="640" height="480"></img>
-
 ### :information_source: Como usar:
 
 Para clonar e executar este aplicativo, você precisará do Git instalado em seu computador. Na linha de comando:
