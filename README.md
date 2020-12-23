@@ -1,6 +1,6 @@
 # :video_game: Tetris v1.0 por Diego Teixeira
 Um jogo simples que fez muito sucesso e que ainda faz é o Tetris. Esse jogo foi criado nos anos 80 por Alexey Pajitnov e
-rapidamente se espalhou pelo mundo em computadores, videogames, aparelhos portáteis, etc.
+rapidamente se espalhou pelo mundo em computadores, videogames, aparelhos portáteis, etc... [Wikipedia](https://pt.wikipedia.org/wiki/Tetris)
 
 ## :computer: Tecnologias
 
@@ -10,6 +10,10 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 -  [VS Code](https://code.visualstudio.com/)
 
 ### :arrow_forward: Em Execução:
+
+<p align="center">
+ <img alt="Demontração Tetris" src="assets/tetris.gif">
+</p>
 
 <p align="center">
  [![tetris.md.gif](https://s2.gifyu.com/images/tetris.md.gif)](https://gifyu.com/image/Cvm9)
