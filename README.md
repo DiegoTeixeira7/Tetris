@@ -12,7 +12,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 ### :arrow_forward: Em Execução:
 
 <p align="center">
-  <img alt="Demonstração Tetris" src="https://s2.gifyu.com/images/tetris.gif">
+  <img alt="Demonstração Tetris" src="https://s2.gifyu.com/images/tetris.gif" width="480" height="270">
 </p>
 
 ### :information_source: Como usar:
