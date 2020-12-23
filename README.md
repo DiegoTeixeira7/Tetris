@@ -12,7 +12,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 ### :arrow_forward: Em Execução:
 
 <p align="center">
-  <img alt="Demonstração Tetris" src="">
+  <img alt="Demonstração Tetris" src="https://gph.is/g/ZxDX3XP">
 </p>
 
 ### :information_source: Como usar:
