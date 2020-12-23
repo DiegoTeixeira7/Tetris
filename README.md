@@ -12,7 +12,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 ### :arrow_forward: Em Execução:
 
 <p align="center">
-  ![Image](https://gph.is/g/ZxDX3XP)
+  ![Image](https://media.giphy.com/media/ccF4Aw0eMH6HqOEoM9/giphy.gif)
 </p>
 
 ### :information_source: Como usar:
