@@ -12,6 +12,8 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 ### :arrow_forward: Em Execução:
 
 <p align="center">
+  <iframe src="https://giphy.com/embed/ccF4Aw0eMH6HqOEoM9" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+  <p><a href="https://giphy.com/gifs/ccF4Aw0eMH6HqOEoM9">via GIPHY</a></p>
   <img alt="Demonstração Tetris" src="https://gph.is/g/ZxDX3XP">
 </p>
 
