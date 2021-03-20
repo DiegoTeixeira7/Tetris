@@ -36,5 +36,5 @@ $ ./a.out
 
 ```
 
-### :memo: Liçenca
+### :memo: Licença
 Este projeto está sob a licença do MIT. Consulte a [LICENSE](https://github.com/DiegoTeixeira7/Tetris/blob/master/LICENSE) para obter mais informações.
